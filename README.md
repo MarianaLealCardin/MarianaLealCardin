@@ -27,4 +27,4 @@ I also have hands-on high-throughput wet-lab experience, which helps when dealin
 
 ---
 
-📫 **Get in touch:** [LinkedIn](www.linkedin.com/in/mariana-leal-cardin) · Open to **Data Scientist**, **Data Analyst**, and **Bioinformatics** roles.
+📫 **Get in touch:** [LinkedIn](www.linkedin.com/) · Open to **Data Scientist**, **Data Analyst**, and **Bioinformatics** roles.
